@@ -6,4 +6,5 @@
 
 
 #
-- Week 2
+- [Week 2](https://github.com/hsojne/DevCourse/blob/main/Week_2)
+  
