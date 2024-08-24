@@ -1,7 +1,7 @@
 # DevCourse
 
 #
-- [Week 1]()
+- [Week 1](https://github.com/hsojne/DevCourse/blob/main/Week_1)
 
 
 
